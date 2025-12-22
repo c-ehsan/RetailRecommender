@@ -6,8 +6,6 @@
 
 ---
 
-## 🌟 English Version
-
 ### ⚠️ Important Notice
 > The dataset used in this project is **very large**, so the Streamlit app **may run slowly** at times.  
 > Please be **patient** while it loads and processes the data. Thank you! ⏳
