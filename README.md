@@ -8,6 +8,10 @@
 
 ## 🌟 English Version
 
+### ⚠️ Important Notice
+> The dataset used in this project is **very large**, so the Streamlit app **may run slowly** at times.  
+> Please be **patient** while it loads and processes the data. Thank you! ⏳
+
 ### 🔹 Project Overview
 This is a **Smart Recommender System** for retail customers.  
 It combines **RFM Analysis (Recency, Frequency, Monetary)** with **Collaborative Filtering** to provide **personalized product recommendations** based on customer purchase behavior.
